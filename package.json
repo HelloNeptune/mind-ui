@@ -1,0 +1,27 @@
+{
+  "name": "mind-ui",
+  "version": "0.0.1",
+  "description": "A cutie UI kit",
+  "main": "./src/index.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloNeptune/mind-ui.git"
+  },
+  "keywords": [
+    "UI",
+    "kit",
+    "UI",
+    "cute",
+    "sweet",
+    "sugar"
+  ],
+  "author": "Burak Abdikoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloNeptune/mind-ui/issues"
+  },
+  "homepage": "https://github.com/HelloNeptune/mind-ui#readme"
+}
